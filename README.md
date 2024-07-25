@@ -2,7 +2,7 @@
 
 Purpose of the code: Create a graphical interface to evaluate hydrostatic pressure based on the Raman signal of a diamond anvil
 
-Copyright 2024 Idir Driche, Université de lille, France, under the supervision of Sébastien MERKEL
+Copyright 2024 Idir Driche, Université de lille, France, under the supervision of Sébastien Merkel and Julien Chantel
 
 This work is a part of ERC hotcores project that has received funding from the European Research Council (ERC) under the grant agreement No 101054994.
 https://erc-hotcores.univ-lille.fr/
@@ -10,7 +10,7 @@ https://erc-hotcores.univ-lille.fr/
 ## How to run the code
 
 The code is written in Octave. To run the code, you should 
- - install octave from https://octave.org/
+ - install Octave from https://octave.org/ including *optim*, the non-linear optimization toolkit for Octave
  - open the source code
  - click on the green arrow
 
